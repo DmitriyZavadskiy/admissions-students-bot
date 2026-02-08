@@ -1,0 +1,7 @@
+qdrant-client
+sentence-transformers
+numpy
+tqdm
+pymupdf
+beautifulsoup4
+requests
