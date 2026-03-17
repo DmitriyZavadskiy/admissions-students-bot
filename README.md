@@ -157,3 +157,4 @@
 - В этом проекте ожидается Qwen 2.5 7B Instruct файлы:
 - `models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf`
 - `models/qwen2.5-7b-instruct-q4_k_m-00002-of-00002.gguf`
+- 
