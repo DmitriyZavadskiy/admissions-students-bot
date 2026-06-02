@@ -1,0 +1,58 @@
+[
+  {
+    "category": "conditions",
+    "questions": 3,
+    "accuracy": 1.0,
+    "completeness": 1.0,
+    "hallucination_free": 1.0,
+    "source_reference": 1.0
+  },
+  {
+    "category": "contacts",
+    "questions": 3,
+    "accuracy": 0.6666666666666666,
+    "completeness": 0.7777777777777777,
+    "hallucination_free": 0.6666666666666666,
+    "source_reference": 1.0
+  },
+  {
+    "category": "cost",
+    "questions": 25,
+    "accuracy": 0.76,
+    "completeness": 0.88,
+    "hallucination_free": 1.0,
+    "source_reference": 1.0
+  },
+  {
+    "category": "dates",
+    "questions": 25,
+    "accuracy": 0.4,
+    "completeness": 0.5657142857142857,
+    "hallucination_free": 1.0,
+    "source_reference": 1.0
+  },
+  {
+    "category": "documents",
+    "questions": 3,
+    "accuracy": 0.3333333333333333,
+    "completeness": 0.38888888888888884,
+    "hallucination_free": 1.0,
+    "source_reference": 1.0
+  },
+  {
+    "category": "dormitory",
+    "questions": 3,
+    "accuracy": 0.6666666666666666,
+    "completeness": 0.6666666666666666,
+    "hallucination_free": 1.0,
+    "source_reference": 1.0
+  },
+  {
+    "category": "programs",
+    "questions": 3,
+    "accuracy": 0.6666666666666666,
+    "completeness": 0.7222222222222222,
+    "hallucination_free": 1.0,
+    "source_reference": 1.0
+  }
+]

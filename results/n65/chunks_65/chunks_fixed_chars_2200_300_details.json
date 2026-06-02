@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "cost_01",
+    "category": "cost",
+    "question": "Подскажи цену за год по Компьютерной безопасности в ВШЭ Москва, я что то не вижу в таблице",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 1.0,
+    "ndcg_5": 1.0,
+    "top_chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.589661,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.504361,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.492675,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 64,
+        "score": 0.488685,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 69,
+        "score": 0.485259,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_02",
+    "category": "cost",
+    "question": "Математика в ВШЭ Москва сколько стоит в год, можно просто цифру",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 13,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.07692307692307693,
+    "ap": 0.07692307692307693,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 58,
+        "score": 0.631089,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.618571,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.606763,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.588437,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 41,
+        "score": 0.555276,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_03",
+    "category": "cost",
+    "question": "А если ПМИ, то сколько денег за год, я про Прикладную математику и информатику",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 4,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.25,
+    "ap": 0.25,
+    "ndcg_5": 0.43067655807339306,
+    "top_chunks": [
+      {
+        "chunk_id": 56,
+        "score": 0.478185,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 33,
+        "score": 0.473382,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 123,
+        "score": 0.469989,
+        "title": "Иностранным абитуриентам – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://admissions.hse.ru/",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.458138,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.439911,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_04",
+    "category": "cost",
+    "question": "Онлайн комп науки и анализ данных, сколько выходит за год обучения",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 14,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.07142857142857142,
+    "ap": 0.07142857142857142,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 93,
+        "score": 0.644763,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 55,
+        "score": 0.629922,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 72,
+        "score": 0.560962,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.553019,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.535236,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_05",
+    "category": "cost",
+    "question": "Прикладная математика не ПМИ, а просто Прикладная математика, сколько в год",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 13,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.07692307692307693,
+    "ap": 0.07692307692307693,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 33,
+        "score": 0.644185,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 56,
+        "score": 0.532075,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.487067,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 58,
+        "score": 0.421409,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 59,
+        "score": 0.412922,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_06",
+    "category": "cost",
+    "question": "Физика в Москве в ВШЭ сколько стоит в год, я путаюсь",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 5,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.2,
+    "ap": 0.2,
+    "ndcg_5": 0.38685280723454163,
+    "top_chunks": [
+      {
+        "chunk_id": 111,
+        "score": 0.599726,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 57,
+        "score": 0.570483,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 58,
+        "score": 0.558693,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.557723,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.554727,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "cost_07",
+    "category": "cost",
+    "question": "Химия новых материалов, сколько платить за год, это ВШЭ Москва",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 12,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.08333333333333333,
+    "ap": 0.08333333333333333,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 111,
+        "score": 0.565073,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.552953,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.541263,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.515661,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 69,
+        "score": 0.514227,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_08",
+    "category": "cost",
+    "question": "Клеточная и молекулярная биотехнология, это сколько в год стоит",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.3333333333333333,
+    "ndcg_5": 0.5,
+    "top_chunks": [
+      {
+        "chunk_id": 60,
+        "score": 0.351833,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 110,
+        "score": 0.297804,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.288862,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 57,
+        "score": 0.285201,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 73,
+        "score": 0.259489,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_09",
+    "category": "cost",
+    "question": "Когнитивная нейробиология, сколько год обучения, можно кратко",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 23,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.043478260869565216,
+    "ap": 0.043478260869565216,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 72,
+        "score": 0.454034,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 74,
+        "score": 0.432112,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.402096,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 110,
+        "score": 0.398445,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 30,
+        "score": 0.39799,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_10",
+    "category": "cost",
+    "question": "Городское планирование, какой ценник за год, Москва",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 33,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.030303030303030304,
+    "ap": 0.030303030303030304,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 121,
+        "score": 0.623554,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 58,
+        "score": 0.60198,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.584282,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.57953,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 69,
+        "score": 0.574248,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_11",
+    "category": "cost",
+    "question": "Информатика и вычислительная техника, сколько стоит год, я не нашел строку",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.5,
+    "ndcg_5": 0.6309297535714575,
+    "top_chunks": [
+      {
+        "chunk_id": 59,
+        "score": 0.424562,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.405513,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 56,
+        "score": 0.403414,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 61,
+        "score": 0.401935,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.399724,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_12",
+    "category": "cost",
+    "question": "Программная инженерия, цена за год в Москве, только по делу",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.3333333333333333,
+    "ndcg_5": 0.5,
+    "top_chunks": [
+      {
+        "chunk_id": 113,
+        "score": 0.624635,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.618801,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.610607,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 121,
+        "score": 0.609705,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 75,
+        "score": 0.591319,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_13",
+    "category": "cost",
+    "question": "Дизайн и разработка инфопродуктов, сколько в год, Москва ВШЭ",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 31,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.03225806451612903,
+    "ap": 0.03225806451612903,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 58,
+        "score": 0.524505,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.514062,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 57,
+        "score": 0.513895,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.49715,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 110,
+        "score": 0.490976,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_14",
+    "category": "cost",
+    "question": "Разработка игр и цифровых продуктов, сколько платить за год обучения",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 2,
+    "first_relevant_rank": 4,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.25,
+    "ap": 0.175,
+    "ndcg_5": 0.2640681225725909,
+    "top_chunks": [
+      {
+        "chunk_id": 59,
+        "score": 0.521209,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.502538,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 55,
+        "score": 0.475685,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.437913,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 110,
+        "score": 0.429838,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_15",
+    "category": "cost",
+    "question": "Информационная безопасность, год обучения сколько стоит в Москве",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 2,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 0.5222222222222223,
+    "ndcg_5": 0.6131471927654584,
+    "top_chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.695668,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.682228,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.660882,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.657215,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 121,
+        "score": 0.654296,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_16",
+    "category": "cost",
+    "question": "Инфокоммуникации и системы связи, какой ценник за год в Москве",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 2,
+    "first_relevant_rank": 16,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.0625,
+    "ap": 0.07291666666666666,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 65,
+        "score": 0.662176,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 67,
+        "score": 0.627586,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 69,
+        "score": 0.609126,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.606597,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 64,
+        "score": 0.60434,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_17",
+    "category": "cost",
+    "question": "Психология в ВШЭ Москва, сколько стоит год, просто сумма",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 78,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.01282051282051282,
+    "ap": 0.01282051282051282,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 121,
+        "score": 0.623879,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.602938,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.600099,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.598993,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 75,
+        "score": 0.575704,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_18",
+    "category": "cost",
+    "question": "Экономика, стоимость за год в Москве, если можно без лишнего",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 2,
+    "first_relevant_rank": 59,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.01694915254237288,
+    "ap": 0.020820255283532117,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 111,
+        "score": 0.582183,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.568479,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 121,
+        "score": 0.55881,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.556137,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.554486,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_19",
+    "category": "cost",
+    "question": "Экономика и анализ данных, сколько денег за один год обучения",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 23,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.043478260869565216,
+    "ap": 0.043478260869565216,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 47,
+        "score": 0.592034,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.555556,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 94,
+        "score": 0.536234,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.529081,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 54,
+        "score": 0.527589,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_20",
+    "category": "cost",
+    "question": "Экономика и статистика, сколько стоит год, я перепроверяю",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 12,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.08333333333333333,
+    "ap": 0.08333333333333333,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 3,
+        "score": 0.428198,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 84,
+        "score": 0.415234,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.412818,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.397897,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 47,
+        "score": 0.38044,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_21",
+    "category": "cost",
+    "question": "Мировая экономика, цена за год обучения, Москва",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 66,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.015151515151515152,
+    "ap": 0.015151515151515152,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 5,
+        "score": 0.667283,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.645016,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 94,
+        "score": 0.64431,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.64158,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 54,
+        "score": 0.62895,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_22",
+    "category": "cost",
+    "question": "Экономический анализ онлайн, сколько это стоит за год",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.5,
+    "ndcg_5": 0.6309297535714575,
+    "top_chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.445675,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.40444,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 47,
+        "score": 0.389703,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 84,
+        "score": 0.389133,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.379852,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_23",
+    "category": "cost",
+    "question": "Маркетинг и рыночная аналитика, цена за год обучения в Москве",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 81,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.012345679012345678,
+    "ap": 0.012345679012345678,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 121,
+        "score": 0.666983,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.63488,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 75,
+        "score": 0.623233,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.621151,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.613354,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_24",
+    "category": "cost",
+    "question": "Управление бизнесом, сколько стоит год, Москва ВШЭ",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 50,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.02,
+    "ap": 0.02,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 121,
+        "score": 0.646735,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.592861,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.585052,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.55961,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.558721,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "cost_25",
+    "category": "cost",
+    "question": "Госуправление, то есть ГМУ, сколько за год обучения в Москве",
+    "expected_doc": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 93,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.010752688172043012,
+    "ap": 0.010752688172043012,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 121,
+        "score": 0.740849,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.727648,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.702775,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 113,
+        "score": 0.700909,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 96,
+        "score": 0.666097,
+        "title": "Документы и правила приема – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/docs",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dates_01",
+    "category": "dates",
+    "question": "По Компьютерной безопасности, когда можно подавать документы в 2026, отдельно бюджет и платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 5,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.2,
+    "ap": 0.28563929929066495,
+    "ndcg_5": 0.13120507751234178,
+    "top_chunks": [
+      {
+        "chunk_id": 77,
+        "score": 0.62415,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.546713,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 25,
+        "score": 0.513116,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.50766,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.495716,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_02",
+    "category": "dates",
+    "question": "Математика, подскажи дедлайны приема документов в 2026, бюджет и платка",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 0.7267513093106488,
+    "ndcg_5": 0.6843515475204855,
+    "top_chunks": [
+      {
+        "chunk_id": 63,
+        "score": 0.660211,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 56,
+        "score": 0.658771,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.630799,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.606592,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 58,
+        "score": 0.597785,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_03",
+    "category": "dates",
+    "question": "Для ПМИ в 2026 какие даты приема документов, я хочу успеть на бюджет, но хочу знать и платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 0.6345834947407712,
+    "ndcg_5": 0.5531464700081437,
+    "top_chunks": [
+      {
+        "chunk_id": 66,
+        "score": 0.619713,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.606277,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.595152,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 112,
+        "score": 0.581545,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.572516,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dates_04",
+    "category": "dates",
+    "question": "Компьютерные науки и анализ данных онлайн, когда принимают документы в 2026, бюджет и платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.48392701217509404,
+    "ndcg_5": 0.5147714448836774,
+    "top_chunks": [
+      {
+        "chunk_id": 77,
+        "score": 0.591381,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 55,
+        "score": 0.526491,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 56,
+        "score": 0.522457,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.520865,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 61,
+        "score": 0.517742,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_05",
+    "category": "dates",
+    "question": "Прикладная математика, какие сроки подачи документов в 2026, чтобы не пролететь",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 0.6735639676015379,
+    "ndcg_5": 0.7860137352654724,
+    "top_chunks": [
+      {
+        "chunk_id": 63,
+        "score": 0.683217,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.643564,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.64192,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 56,
+        "score": 0.632029,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.629775,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_06",
+    "category": "dates",
+    "question": "Физика, даты приема документов в 2026, можно коротко бюджет и платка",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.7178106588006415,
+    "ndcg_5": 0.6608397947263839,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.675261,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.652229,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 57,
+        "score": 0.632878,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.60764,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.607459,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_07",
+    "category": "dates",
+    "question": "Химия новых материалов, когда подаются документы в 2026, я путаю даты",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.7433092915665156,
+    "ndcg_5": 0.6608397947263839,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.634127,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.588491,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.581411,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.557488,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.528018,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_08",
+    "category": "dates",
+    "question": "Биотехнология клеточная и молекулярная, до какого числа можно подать в 2026 на бюджет и на платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 0.629085849009733,
+    "ndcg_5": 0.830419897363192,
+    "top_chunks": [
+      {
+        "chunk_id": 60,
+        "score": 0.523107,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 57,
+        "score": 0.438791,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.421813,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 59,
+        "score": 0.375195,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.374373,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_09",
+    "category": "dates",
+    "question": "Когнитивная нейробиология, какие сроки приема документов в 2026, хочу понять крайний день",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 0.8070614570614572,
+    "ndcg_5": 0.8539316501572937,
+    "top_chunks": [
+      {
+        "chunk_id": 60,
+        "score": 0.637397,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.578913,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.576151,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.570009,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 56,
+        "score": 0.569542,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_10",
+    "category": "dates",
+    "question": "Городское планирование, сроки подачи в 2026, бюджет отдельно и платное отдельно",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.5519483953467508,
+    "ndcg_5": 0.4468535299918563,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.521388,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.496305,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.488992,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.484129,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 69,
+        "score": 0.463498,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_11",
+    "category": "dates",
+    "question": "ИВТ, когда открывается прием документов и когда закрывается в 2026, бюджет и платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 8,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.125,
+    "ap": 0.28482983426427,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.667067,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.645477,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 112,
+        "score": 0.641178,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.612851,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 86,
+        "score": 0.597388,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dates_12",
+    "category": "dates",
+    "question": "Программная инженерия, какие даты приема документов в 2026, чтобы я нормально спланировал",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.6756306021280915,
+    "ndcg_5": 0.6608397947263839,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.66997,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.6428,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.625582,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.623964,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.613664,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_13",
+    "category": "dates",
+    "question": "Дизайн и разработка инфопродуктов, подскажи сроки подачи документов в 2026, бюджет и платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.6636276526818098,
+    "ndcg_5": 0.5296347172140421,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.633212,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.586408,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.58357,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.554139,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.547471,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dates_14",
+    "category": "dates",
+    "question": "Разработка игр, какие сроки приема документов в 2026, хочу знать последний день",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.6927589404059993,
+    "ndcg_5": 0.6608397947263839,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.63878,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 59,
+        "score": 0.624859,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.553547,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.552135,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.541106,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_15",
+    "category": "dates",
+    "question": "Информационная безопасность, сроки подачи документов в 2026, бюджет и платка",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 4,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.25,
+    "ap": 0.4222858350799528,
+    "ndcg_5": 0.27727342735504823,
+    "top_chunks": [
+      {
+        "chunk_id": 77,
+        "score": 0.608115,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.600129,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.582248,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.567666,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.539475,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_16",
+    "category": "dates",
+    "question": "Инфокоммуникации и связь, когда можно подать документы в 2026, и когда уже поздно",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.6113933053937316,
+    "ndcg_5": 0.4468535299918563,
+    "top_chunks": [
+      {
+        "chunk_id": 77,
+        "score": 0.646664,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.613557,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.596449,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.556561,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 64,
+        "score": 0.538214,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_17",
+    "category": "dates",
+    "question": "Психология, сроки приема документов в 2026, я боюсь пропустить бюджет",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.515749239635208,
+    "ndcg_5": 0.4468535299918563,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.621459,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.583669,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.578069,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.574364,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.552121,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_18",
+    "category": "dates",
+    "question": "Экономика, когда принимают документы в 2026, отдельно бюджет и отдельно платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 8,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.125,
+    "ap": 0.3370234375138796,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 98,
+        "score": 0.607108,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.586771,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 47,
+        "score": 0.522584,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.51239,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 96,
+        "score": 0.49148,
+        "title": "Документы и правила приема – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/docs",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dates_19",
+    "category": "dates",
+    "question": "Экономика и анализ данных, сроки подачи в 2026, скажи как в документе",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.6467276045419151,
+    "ndcg_5": 0.5147714448836774,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.680629,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.600876,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.595742,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.594921,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.594237,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_20",
+    "category": "dates",
+    "question": "Экономика и статистика, подскажи даты приема документов в 2026, я хочу записать себе",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.640847186756463,
+    "ndcg_5": 0.4468535299918563,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.671497,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.59314,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.587151,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.585277,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.584927,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_21",
+    "category": "dates",
+    "question": "Мировая экономика, какие сроки подачи документов в 2026, бюджет и платка",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.6586107851652226,
+    "ndcg_5": 0.4912596920895758,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.66384,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.603776,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.600956,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.588095,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 60,
+        "score": 0.56343,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_22",
+    "category": "dates",
+    "question": "Экономический анализ онлайн, даты приема документов в 2026, просто период",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.6334123846378747,
+    "ndcg_5": 0.30078518014914984,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.622931,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.619772,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.572668,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.566927,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.557004,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_23",
+    "category": "dates",
+    "question": "Маркетинг и аналитика, когда подаются документы в 2026, бюджет и платка",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.6280297464228494,
+    "ndcg_5": 0.4912596920895758,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.657851,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.580794,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.537475,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 68,
+        "score": 0.536685,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 62,
+        "score": 0.532463,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "dates_24",
+    "category": "dates",
+    "question": "Управление бизнесом, сроки приема документов в 2026, чтобы я не тупил потом",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.42713783617049095,
+    "ndcg_5": 0.3156484524795145,
+    "top_chunks": [
+      {
+        "chunk_id": 77,
+        "score": 0.639688,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.564248,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 63,
+        "score": 0.52541,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.52223,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 112,
+        "score": 0.52054,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dates_25",
+    "category": "dates",
+    "question": "ГМУ, то есть гос и муниципальное управление, когда можно подать документы в 2026, бюджет и платное",
+    "expected_doc": "Приложение 1.pdf",
+    "total_relevant": 18,
+    "first_relevant_rank": 5,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.2,
+    "ap": 0.3435412075938414,
+    "ndcg_5": 0.13120507751234178,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.600624,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.580152,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.539004,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 96,
+        "score": 0.523244,
+        "title": "Документы и правила приема – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/docs",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 66,
+        "score": 0.501891,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "contacts_01",
+    "category": "contacts",
+    "question": "Какой телефон у приемной комиссии ВШЭ в Москве?",
+    "expected_doc": "Контакты",
+    "total_relevant": 1,
+    "first_relevant_rank": 2,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.5,
+    "ap": 0.5,
+    "ndcg_5": 0.6309297535714575,
+    "top_chunks": [
+      {
+        "chunk_id": 87,
+        "score": 0.572398,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 104,
+        "score": 0.561558,
+        "title": "Контакты — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/contacts.html",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.554188,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 64,
+        "score": 0.550608,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 41,
+        "score": 0.548479,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "contacts_02",
+    "category": "contacts",
+    "question": "Какой телефон у справочной НИУ ВШЭ?",
+    "expected_doc": "Контакты",
+    "total_relevant": 1,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 1.0,
+    "ndcg_5": 1.0,
+    "top_chunks": [
+      {
+        "chunk_id": 104,
+        "score": 0.404927,
+        "title": "Контакты — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/contacts.html",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.401344,
+        "title": "6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "source": "data/raw/pdfs/6.18-01_180225-3 Приложение 1_Москва.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 89,
+        "score": 0.364526,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 87,
+        "score": 0.35061,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.338763,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "contacts_03",
+    "category": "contacts",
+    "question": "Какая электронная почта приемной комиссии ВШЭ в Москве?",
+    "expected_doc": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 38,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.02631578947368421,
+    "ap": 0.02631578947368421,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 87,
+        "score": 0.611927,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 104,
+        "score": 0.58314,
+        "title": "Контакты — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/contacts.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.573279,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 65,
+        "score": 0.570227,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 111,
+        "score": 0.569488,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dormitory_01",
+    "category": "dormitory",
+    "question": "Кому из первокурсников ВШЭ в 2025 году обещали места в общежитиях?",
+    "expected_doc": "Часто задаваемые вопросы — 2025",
+    "total_relevant": 1,
+    "first_relevant_rank": 47,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.02127659574468085,
+    "ap": 0.02127659574468085,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 116,
+        "score": 0.646701,
+        "title": "Подача заявки на получение места в общежитии (кроме поступивших на бесплатные места) – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/dormitory_application",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 114,
+        "score": 0.63609,
+        "title": "Порядок заселения в общежитие НИУ ВШЭ студентов 1 курса бакалавриата/специалитета набора 2025 года граждане РФ — Дирекция по управлению общежитиями, гостиницами, учебно-оздоровительными комплексами — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/dormoffice/zaseleniebak2025",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 115,
+        "score": 0.625327,
+        "title": "Порядок заселения в общежитие НИУ ВШЭ студентов 1 курса бакалавриата/специалитета набора 2025 года граждане РФ — Дирекция по управлению общежитиями, гостиницами, учебно-оздоровительными комплексами — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/dormoffice/zaseleniebak2025",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 79,
+        "score": 0.574334,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 76,
+        "score": 0.556979,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dormitory_02",
+    "category": "dormitory",
+    "question": "Где первокурсник получает направление на заселение в общежитие?",
+    "expected_doc": "Порядок заселения в общежитие",
+    "total_relevant": 1,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.3333333333333333,
+    "ndcg_5": 0.5,
+    "top_chunks": [
+      {
+        "chunk_id": 115,
+        "score": 0.64882,
+        "title": "Порядок заселения в общежитие НИУ ВШЭ студентов 1 курса бакалавриата/специалитета набора 2025 года граждане РФ — Дирекция по управлению общежитиями, гостиницами, учебно-оздоровительными комплексами — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/dormoffice/zaseleniebak2025",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 116,
+        "score": 0.630127,
+        "title": "Подача заявки на получение места в общежитии (кроме поступивших на бесплатные места) – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/dormitory_application",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 114,
+        "score": 0.62209,
+        "title": "Порядок заселения в общежитие НИУ ВШЭ студентов 1 курса бакалавриата/специалитета набора 2025 года граждане РФ — Дирекция по управлению общежитиями, гостиницами, учебно-оздоровительными комплексами — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/dormoffice/zaseleniebak2025",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 79,
+        "score": 0.576395,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 76,
+        "score": 0.53389,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "dormitory_03",
+    "category": "dormitory",
+    "question": "На какую почту отправлять заявку на место в общежитии?",
+    "expected_doc": "Подача заявки на получение места в общежитии",
+    "total_relevant": 1,
+    "first_relevant_rank": 5,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.2,
+    "ap": 0.2,
+    "ndcg_5": 0.38685280723454163,
+    "top_chunks": [
+      {
+        "chunk_id": 115,
+        "score": 0.650939,
+        "title": "Порядок заселения в общежитие НИУ ВШЭ студентов 1 курса бакалавриата/специалитета набора 2025 года граждане РФ — Дирекция по управлению общежитиями, гостиницами, учебно-оздоровительными комплексами — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/dormoffice/zaseleniebak2025",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 79,
+        "score": 0.530433,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 114,
+        "score": 0.519716,
+        "title": "Порядок заселения в общежитие НИУ ВШЭ студентов 1 курса бакалавриата/специалитета набора 2025 года граждане РФ — Дирекция по управлению общежитиями, гостиницами, учебно-оздоровительными комплексами — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/dormoffice/zaseleniebak2025",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 116,
+        "score": 0.445399,
+        "title": "Подача заявки на получение места в общежитии (кроме поступивших на бесплатные места) – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/dormitory_application",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 117,
+        "score": 0.418374,
+        "title": "Подача заявки на получение места в общежитии (кроме поступивших на бесплатные места) – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/dormitory_application",
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "id": "documents_01",
+    "category": "documents",
+    "question": "Какими способами можно подать документы в приемную кампанию 2026 года?",
+    "expected_doc": "Опубликованы правила приема на 2026 год",
+    "total_relevant": 1,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 1.0,
+    "ndcg_5": 1.0,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.651407,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.58044,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 117,
+        "score": 0.529432,
+        "title": "Подача заявки на получение места в общежитии (кроме поступивших на бесплатные места) – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/dormitory_application",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 79,
+        "score": 0.522137,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 25,
+        "score": 0.51208,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "documents_02",
+    "category": "documents",
+    "question": "Какой уровень образования нужен для поступления на бакалавриат или специалитет?",
+    "expected_doc": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+    "total_relevant": 1,
+    "first_relevant_rank": 54,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.018518518518518517,
+    "ap": 0.018518518518518517,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 116,
+        "score": 0.621272,
+        "title": "Подача заявки на получение места в общежитии (кроме поступивших на бесплатные места) – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/dormitory_application",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 28,
+        "score": 0.587484,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 54,
+        "score": 0.553054,
+        "title": "Приложение 1.pdf",
+        "source": "data/raw/pdfs/Приложение 1.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 123,
+        "score": 0.53645,
+        "title": "Иностранным абитуриентам – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://admissions.hse.ru/",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 38,
+        "score": 0.529129,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "documents_03",
+    "category": "documents",
+    "question": "Где на сайте ВШЭ размещены документы и правила приема?",
+    "expected_doc": "Документы и правила приема",
+    "total_relevant": 1,
+    "first_relevant_rank": 8,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.125,
+    "ap": 0.125,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 16,
+        "score": 0.679032,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 77,
+        "score": 0.66785,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 25,
+        "score": 0.622505,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 46,
+        "score": 0.622393,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 20,
+        "score": 0.621893,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "programs_01",
+    "category": "programs",
+    "question": "Какие вступительные предметы указаны для Девелопмента и городского планирования?",
+    "expected_doc": "Девелопмент и городское планирование",
+    "total_relevant": 1,
+    "first_relevant_rank": 1,
+    "hit_1": 1,
+    "hit_5": 1,
+    "mrr": 1.0,
+    "ap": 1.0,
+    "ndcg_5": 1.0,
+    "top_chunks": [
+      {
+        "chunk_id": 118,
+        "score": 0.476279,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.401058,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.395998,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 121,
+        "score": 0.388204,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 42,
+        "score": 0.385536,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "programs_02",
+    "category": "programs",
+    "question": "Сколько лет длится очное обучение по Девелопменту и городскому планированию?",
+    "expected_doc": "Девелопмент и городское планирование",
+    "total_relevant": 1,
+    "first_relevant_rank": 98,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.01020408163265306,
+    "ap": 0.01020408163265306,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 108,
+        "score": 0.565883,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.527904,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 72,
+        "score": 0.524114,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 121,
+        "score": 0.518072,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 109,
+        "score": 0.4975,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "programs_03",
+    "category": "programs",
+    "question": "Какие специализации планируются на 3 курсе Девелопмента и городского планирования?",
+    "expected_doc": "Девелопмент и городское планирование",
+    "total_relevant": 2,
+    "first_relevant_rank": 3,
+    "hit_1": 0,
+    "hit_5": 1,
+    "mrr": 0.3333333333333333,
+    "ap": 0.1769759450171821,
+    "ndcg_5": 0.3065735963827292,
+    "top_chunks": [
+      {
+        "chunk_id": 42,
+        "score": 0.515619,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 98,
+        "score": 0.468413,
+        "title": "Информирование о приеме – 2026 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/information",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 118,
+        "score": 0.468129,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": true
+      },
+      {
+        "chunk_id": 121,
+        "score": 0.450536,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 108,
+        "score": 0.440162,
+        "title": "Опубликованы правила приема на 2026 год — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/news/admission/1120677182.html",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "conditions_01",
+    "category": "conditions",
+    "question": "Сколько баллов можно получить за индивидуальные достижения?",
+    "expected_doc": "Девелопмент и городское планирование",
+    "total_relevant": 1,
+    "first_relevant_rank": 42,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.023809523809523808,
+    "ap": 0.023809523809523808,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 21,
+        "score": 0.782975,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 81,
+        "score": 0.768536,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 40,
+        "score": 0.731781,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.670242,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 30,
+        "score": 0.621459,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "conditions_02",
+    "category": "conditions",
+    "question": "Можно ли подать документы с баллом ЕГЭ ниже 50?",
+    "expected_doc": "Девелопмент и городское планирование",
+    "total_relevant": 1,
+    "first_relevant_rank": 50,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.02,
+    "ap": 0.02,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 84,
+        "score": 0.570406,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.565634,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 30,
+        "score": 0.560468,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 81,
+        "score": 0.552374,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 90,
+        "score": 0.547783,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "id": "conditions_03",
+    "category": "conditions",
+    "question": "Могут ли победители и призеры олимпиад поступить без вступительных испытаний?",
+    "expected_doc": "Девелопмент и городское планирование",
+    "total_relevant": 1,
+    "first_relevant_rank": 29,
+    "hit_1": 0,
+    "hit_5": 0,
+    "mrr": 0.034482758620689655,
+    "ap": 0.034482758620689655,
+    "ndcg_5": 0.0,
+    "top_chunks": [
+      {
+        "chunk_id": 119,
+        "score": 0.758385,
+        "title": "Часто задаваемые вопросы — Образовательная программа «Девелопмент и городское планирование» — Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://www.hse.ru/ba/up/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 81,
+        "score": 0.708546,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.584985,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 83,
+        "score": 0.578496,
+        "title": "Часто задаваемые вопросы — 2025 – Абитуриентам бакалавриата – Национальный исследовательский университет «Высшая школа экономики»",
+        "source": "https://ba.hse.ru/faq",
+        "is_relevant": false
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.571045,
+        "title": "Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "source": "data/raw/pdfs/Правила_приема_бак_2026_принятые_изменения_v12.pdf",
+        "is_relevant": false
+      }
+    ]
+  }
+]

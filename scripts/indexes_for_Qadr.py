@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 
 COLL = "admissions_chunks"
 EMBMDL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-CHFP = Path("data/processed/chunks.json")
+CHFP = Path("data/processed/enriched_chunks.json")
 
 BCHSZ = 256
 
@@ -30,20 +30,19 @@ class QdrantIndexer:
 
         vdim = emb.get_sentence_embedding_dimension()
 
-        try:
+        names = [item.name for item in qdr.get_collections().collections]
+        if self.coll not in names:
             qdr.create_collection(
                 collection_name=self.coll,
                 vectors_config=models.VectorParams(size=vdim, distance=models.Distance.COSINE),
             )
-        except Exception:
-            pass
 
         bch: list[models.PointStruct] = []
         cnt = 0
 
         for rec in self.rd(self.chfp):
             txt = rec["text"]
-            vct = emb.encode(txt, normalize_embeddings=True).tolist()
+            vct = emb.encode(rec.get("index_text") or txt, normalize_embeddings=True).tolist()
 
             pay = {
                 "doc_id": rec["doc_id"],

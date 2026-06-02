@@ -1,0 +1,12 @@
+{
+  "label": "baseline",
+  "model": "intfloat/multilingual-e5-small",
+  "retriever": "hybrid_dense_bm25",
+  "questions": 65,
+  "chunks": 385,
+  "hit_1": 0.5538461538461539,
+  "hit_5": 0.8615384615384616,
+  "mrr": 0.6872729076943124,
+  "map": 0.618428429515999,
+  "ndcg_5": 0.613832607910215
+}

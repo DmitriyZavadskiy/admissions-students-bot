@@ -1,0 +1,98 @@
+[
+  {
+    "label": "dense_mini",
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "retriever": "dense",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.2,
+    "hit_5": 0.5230769230769231,
+    "mrr": 0.3390473139194626,
+    "map": 0.3213733278150853,
+    "ndcg_5": 0.31924437767180847
+  },
+  {
+    "label": "dense_e5",
+    "model": "intfloat/multilingual-e5-small",
+    "retriever": "dense",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.46153846153846156,
+    "hit_5": 0.7076923076923077,
+    "mrr": 0.5711304356330129,
+    "map": 0.5333512497188876,
+    "ndcg_5": 0.5575187581922272
+  },
+  {
+    "label": "dense_distil",
+    "model": "sentence-transformers/distiluse-base-multilingual-cased-v2",
+    "retriever": "dense",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.38461538461538464,
+    "hit_5": 0.5230769230769231,
+    "mrr": 0.46267171200538687,
+    "map": 0.4131817130564173,
+    "ndcg_5": 0.42249730226842047
+  },
+  {
+    "label": "bm25",
+    "model": "bm25",
+    "retriever": "bm25",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.2923076923076923,
+    "hit_5": 0.7076923076923077,
+    "mrr": 0.47602844889279233,
+    "map": 0.41026574951401856,
+    "ndcg_5": 0.4011524272324008
+  },
+  {
+    "label": "hybrid_mini",
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "retriever": "hybrid_dense_bm25",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.2923076923076923,
+    "hit_5": 0.6153846153846154,
+    "mrr": 0.44840928534244584,
+    "map": 0.42670237885589896,
+    "ndcg_5": 0.3682033767823384
+  },
+  {
+    "label": "hybrid_mini_rerank25",
+    "model": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+    "retriever": "hybrid_dense_bm25_rerank",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.4153846153846154,
+    "hit_5": 0.8153846153846154,
+    "mrr": 0.5796736736854295,
+    "map": 0.5224757134117257,
+    "ndcg_5": 0.5654809855558701
+  },
+  {
+    "label": "hybrid_e5",
+    "model": "intfloat/multilingual-e5-small",
+    "retriever": "hybrid_dense_bm25",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.5384615384615384,
+    "hit_5": 0.8461538461538461,
+    "mrr": 0.667009417275114,
+    "map": 0.6094867338608642,
+    "ndcg_5": 0.5984703742325089
+  },
+  {
+    "label": "hybrid_e5_rerank25",
+    "model": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+    "retriever": "hybrid_dense_bm25_rerank",
+    "questions": 65,
+    "chunks": 381,
+    "hit_1": 0.4153846153846154,
+    "hit_5": 0.8461538461538461,
+    "mrr": 0.5883092566390111,
+    "map": 0.596747113489566,
+    "ndcg_5": 0.5867377633601633
+  }
+]

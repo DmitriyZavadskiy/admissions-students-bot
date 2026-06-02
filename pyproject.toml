@@ -1,0 +1,18 @@
+[project]
+name = "admissions-students-bot"
+version = "0.1.0"
+description = "RAG chatbot experiments for university admissions documents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiogram",
+    "beautifulsoup4",
+    "llama-cpp-python",
+    "numpy",
+    "pymupdf",
+    "qdrant-client",
+    "requests",
+    "sentence-transformers",
+    "tqdm",
+    "trafilatura",
+]

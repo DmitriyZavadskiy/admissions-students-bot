@@ -1,0 +1,9 @@
+label,model,retriever,questions,chunks,hit_1,hit_5,mrr,map,ndcg_5,chunk_method,chunk_size,chunk_overlap
+chunks_sentence_700_100,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,414,0.13846153846153847,0.5384615384615384,0.2902518475142035,0.3167655570463323,0.27685835795644775,sentence,700,100
+chunks_sentence_1000_150,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,283,0.16923076923076924,0.5692307692307692,0.35035126801267025,0.3270764736013118,0.3069688614837617,sentence,1000,150
+chunks_sentence_1600_250,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,178,0.13846153846153847,0.5230769230769231,0.3130495934661893,0.3179052017909589,0.28183514815767774,sentence,1600,250
+chunks_sentence_2200_300,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,127,0.15384615384615385,0.5846153846153846,0.33097886400155835,0.3374448581364358,0.2942483519145263,sentence,2200,300
+chunks_fixed_chars_700_100,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,381,0.2,0.5230769230769231,0.3390473139194626,0.3213733278150853,0.31924437767180847,fixed_chars,700,100
+chunks_fixed_chars_1000_150,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,270,0.2,0.5692307692307692,0.3570159229228566,0.34278157868107745,0.3041886708145736,fixed_chars,1000,150
+chunks_fixed_chars_1600_250,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,173,0.15384615384615385,0.5076923076923077,0.3249665074809917,0.3129819140455151,0.28125569555762486,fixed_chars,1600,250
+chunks_fixed_chars_2200_300,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,dense_local_cosine,65,124,0.15384615384615385,0.6,0.34007567934356236,0.36069781682985946,0.3325755561589865,fixed_chars,2200,300

@@ -1,0 +1,66 @@
+[
+  {
+    "reranker": "mmarco",
+    "top_n": 10,
+    "queries": 65,
+    "latency_ms_mean": 417.9,
+    "latency_ms_p50": 404.8,
+    "latency_ms_p95": 480.7
+  },
+  {
+    "reranker": "mmarco",
+    "top_n": 15,
+    "queries": 65,
+    "latency_ms_mean": 637.8,
+    "latency_ms_p50": 619.7,
+    "latency_ms_p95": 733.1
+  },
+  {
+    "reranker": "mmarco",
+    "top_n": 25,
+    "queries": 65,
+    "latency_ms_mean": 1161.9,
+    "latency_ms_p50": 1114.6,
+    "latency_ms_p95": 1415.1
+  },
+  {
+    "reranker": "mmarco",
+    "top_n": 50,
+    "queries": 65,
+    "latency_ms_mean": 2432.1,
+    "latency_ms_p50": 2353.7,
+    "latency_ms_p95": 3071.8
+  },
+  {
+    "reranker": "msmarco",
+    "top_n": 10,
+    "queries": 65,
+    "latency_ms_mean": 644.7,
+    "latency_ms_p50": 641.8,
+    "latency_ms_p95": 675.2
+  },
+  {
+    "reranker": "msmarco",
+    "top_n": 15,
+    "queries": 65,
+    "latency_ms_mean": 939.8,
+    "latency_ms_p50": 936.3,
+    "latency_ms_p95": 980.7
+  },
+  {
+    "reranker": "msmarco",
+    "top_n": 25,
+    "queries": 65,
+    "latency_ms_mean": 1608.7,
+    "latency_ms_p50": 1605.1,
+    "latency_ms_p95": 1648.2
+  },
+  {
+    "reranker": "msmarco",
+    "top_n": 50,
+    "queries": 65,
+    "latency_ms_mean": 3206.1,
+    "latency_ms_p50": 3175.3,
+    "latency_ms_p95": 3425.5
+  }
+]

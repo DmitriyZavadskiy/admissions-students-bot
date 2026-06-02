@@ -1,0 +1,12 @@
+{
+  "label": "dense_distil",
+  "model": "sentence-transformers/distiluse-base-multilingual-cased-v2",
+  "retriever": "dense",
+  "questions": 65,
+  "chunks": 381,
+  "hit_1": 0.38461538461538464,
+  "hit_5": 0.5230769230769231,
+  "mrr": 0.46267171200538687,
+  "map": 0.4131817130564173,
+  "ndcg_5": 0.42249730226842047
+}

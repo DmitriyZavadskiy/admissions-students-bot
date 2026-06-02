@@ -1,0 +1,12 @@
+{
+  "label": "enriched_full",
+  "model": "intfloat/multilingual-e5-small",
+  "retriever": "hybrid_dense_bm25",
+  "questions": 65,
+  "chunks": 448,
+  "hit_1": 0.7538461538461538,
+  "hit_5": 0.9846153846153847,
+  "mrr": 0.8507692307692307,
+  "map": 0.687759501960286,
+  "ndcg_5": 0.7092769528360194
+}

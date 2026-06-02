@@ -1,0 +1,8 @@
+category,questions,auto_accuracy,auto_completeness,auto_hallucination_free,auto_source_reference
+conditions,3,0.6666666666666666,0.7777777777777778,1.0,1.0
+contacts,3,1.0,0.7777777777777777,1.0,1.0
+cost,25,0.32,0.5,0.84,0.92
+dates,25,0.72,0.7542857142857143,0.96,0.96
+documents,3,0.6666666666666666,0.7222222222222222,1.0,1.0
+dormitory,3,0.3333333333333333,0.5,1.0,1.0
+programs,3,1.0,0.8888888888888888,1.0,1.0

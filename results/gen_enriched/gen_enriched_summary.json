@@ -1,0 +1,9 @@
+{
+  "label": "gen_enriched",
+  "questions": 65,
+  "neighbors": true,
+  "accuracy": 0.6,
+  "avg_completeness": 0.7201465201465201,
+  "hallucination_free": 0.9846153846153847,
+  "source_reference": 1.0
+}

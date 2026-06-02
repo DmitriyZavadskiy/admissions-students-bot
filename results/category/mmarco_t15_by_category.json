@@ -1,0 +1,72 @@
+[
+  {
+    "label": "mmarco_t15",
+    "category": "conditions",
+    "questions": 3,
+    "hit_1": 0.6666666666666666,
+    "hit_5": 0.6666666666666666,
+    "mrr": 0.6811594202898551,
+    "map": 0.6811594202898551,
+    "ndcg_5": 0.6666666666666666
+  },
+  {
+    "label": "mmarco_t15",
+    "category": "contacts",
+    "questions": 3,
+    "hit_1": 1.0,
+    "hit_5": 1.0,
+    "mrr": 1.0,
+    "map": 0.875,
+    "ndcg_5": 0.8710490642551528
+  },
+  {
+    "label": "mmarco_t15",
+    "category": "cost",
+    "questions": 25,
+    "hit_1": 0.2,
+    "hit_5": 0.68,
+    "mrr": 0.41772454212454213,
+    "map": 0.41878226218226217,
+    "ndcg_5": 0.45266101866358505
+  },
+  {
+    "label": "mmarco_t15",
+    "category": "dates",
+    "questions": 25,
+    "hit_1": 0.76,
+    "hit_5": 1.0,
+    "mrr": 0.88,
+    "map": 0.7625320191973809,
+    "ndcg_5": 0.7600805363512326
+  },
+  {
+    "label": "mmarco_t15",
+    "category": "documents",
+    "questions": 3,
+    "hit_1": 0.6666666666666666,
+    "hit_5": 0.6666666666666666,
+    "mrr": 0.6944444444444445,
+    "map": 0.6944444444444445,
+    "ndcg_5": 0.6666666666666666
+  },
+  {
+    "label": "mmarco_t15",
+    "category": "dormitory",
+    "questions": 3,
+    "hit_1": 0.3333333333333333,
+    "hit_5": 1.0,
+    "mrr": 0.6666666666666666,
+    "map": 0.6666666666666666,
+    "ndcg_5": 0.7539531690476383
+  },
+  {
+    "label": "mmarco_t15",
+    "category": "programs",
+    "questions": 3,
+    "hit_1": 1.0,
+    "hit_5": 1.0,
+    "mrr": 1.0,
+    "map": 1.0,
+    "ndcg_5": 1.0
+  }
+]

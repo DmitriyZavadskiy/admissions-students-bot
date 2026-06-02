@@ -1,0 +1,2 @@
+label,questions,top_k,generation_mode,model,gpu_layers,retriever,accuracy,avg_completeness,hallucination_free,source_reference
+generation_eval_best_retrieval,65,5,llm,/home/user/admissions-students-bot/models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf,-1,intfloat/multilingual-e5-small+bm25_alpha_0.65+rerank_top_15_skip_cost,0.5538461538461539,0.6388278388278389,1.0,1.0

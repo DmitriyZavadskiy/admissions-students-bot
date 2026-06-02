@@ -1,0 +1,12 @@
+{
+  "label": "hybrid_mini",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "retriever": "hybrid_dense_bm25",
+  "questions": 65,
+  "chunks": 381,
+  "hit_1": 0.2923076923076923,
+  "hit_5": 0.6153846153846154,
+  "mrr": 0.44840928534244584,
+  "map": 0.42670237885589896,
+  "ndcg_5": 0.3682033767823384
+}

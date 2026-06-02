@@ -1,0 +1,58 @@
+[
+  {
+    "category": "conditions",
+    "questions": 3,
+    "auto_accuracy": 0.6666666666666666,
+    "auto_completeness": 0.7777777777777778,
+    "auto_hallucination_free": 1.0,
+    "auto_source_reference": 1.0
+  },
+  {
+    "category": "contacts",
+    "questions": 3,
+    "auto_accuracy": 1.0,
+    "auto_completeness": 0.7777777777777777,
+    "auto_hallucination_free": 1.0,
+    "auto_source_reference": 1.0
+  },
+  {
+    "category": "cost",
+    "questions": 25,
+    "auto_accuracy": 0.32,
+    "auto_completeness": 0.5,
+    "auto_hallucination_free": 0.84,
+    "auto_source_reference": 0.92
+  },
+  {
+    "category": "dates",
+    "questions": 25,
+    "auto_accuracy": 0.72,
+    "auto_completeness": 0.7542857142857143,
+    "auto_hallucination_free": 0.96,
+    "auto_source_reference": 0.96
+  },
+  {
+    "category": "documents",
+    "questions": 3,
+    "auto_accuracy": 0.6666666666666666,
+    "auto_completeness": 0.7222222222222222,
+    "auto_hallucination_free": 1.0,
+    "auto_source_reference": 1.0
+  },
+  {
+    "category": "dormitory",
+    "questions": 3,
+    "auto_accuracy": 0.3333333333333333,
+    "auto_completeness": 0.5,
+    "auto_hallucination_free": 1.0,
+    "auto_source_reference": 1.0
+  },
+  {
+    "category": "programs",
+    "questions": 3,
+    "auto_accuracy": 1.0,
+    "auto_completeness": 0.8888888888888888,
+    "auto_hallucination_free": 1.0,
+    "auto_source_reference": 1.0
+  }
+]

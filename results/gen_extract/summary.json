@@ -1,0 +1,13 @@
+{
+  "label": "generation_eval_best_retrieval",
+  "questions": 65,
+  "top_k": 5,
+  "generation_mode": "extractive",
+  "model": "extractive_window",
+  "gpu_layers": null,
+  "retriever": "intfloat/multilingual-e5-small+bm25_alpha_0.65+rerank_top_15_skip_cost",
+  "accuracy": 0.26153846153846155,
+  "avg_completeness": 0.39597069597069595,
+  "hallucination_free": 1.0,
+  "source_reference": 1.0
+}

@@ -1,0 +1,12 @@
+{
+  "label": "dense_mini",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "retriever": "dense",
+  "questions": 65,
+  "chunks": 381,
+  "hit_1": 0.2,
+  "hit_5": 0.5230769230769231,
+  "mrr": 0.3390473139194626,
+  "map": 0.3213733278150853,
+  "ndcg_5": 0.31924437767180847
+}

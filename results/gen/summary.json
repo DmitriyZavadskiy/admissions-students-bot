@@ -1,0 +1,13 @@
+{
+  "label": "generation_eval_best_retrieval",
+  "questions": 7,
+  "top_k": 5,
+  "generation_mode": "llm",
+  "model": "/home/user/admissions-students-bot/models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+  "gpu_layers": -1,
+  "retriever": "intfloat/multilingual-e5-small+bm25_alpha_0.65+rerank_top_15",
+  "accuracy": 0.8571428571428571,
+  "avg_completeness": 0.8571428571428571,
+  "hallucination_free": 1.0,
+  "source_reference": 1.0
+}

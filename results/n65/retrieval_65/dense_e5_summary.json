@@ -1,0 +1,12 @@
+{
+  "label": "dense_e5",
+  "model": "intfloat/multilingual-e5-small",
+  "retriever": "dense",
+  "questions": 65,
+  "chunks": 381,
+  "hit_1": 0.46153846153846156,
+  "hit_5": 0.7076923076923077,
+  "mrr": 0.5711304356330129,
+  "map": 0.5333512497188876,
+  "ndcg_5": 0.5575187581922272
+}

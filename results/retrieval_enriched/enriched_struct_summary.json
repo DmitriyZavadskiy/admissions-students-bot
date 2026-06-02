@@ -1,0 +1,12 @@
+{
+  "label": "enriched_struct",
+  "model": "intfloat/multilingual-e5-small",
+  "retriever": "hybrid_dense_bm25",
+  "questions": 65,
+  "chunks": 448,
+  "hit_1": 0.8,
+  "hit_5": 0.9384615384615385,
+  "mrr": 0.8542765706979754,
+  "map": 0.6741411574250805,
+  "ndcg_5": 0.6581849607767022
+}

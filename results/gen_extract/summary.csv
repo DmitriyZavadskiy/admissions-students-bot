@@ -1,0 +1,2 @@
+label,questions,top_k,generation_mode,model,gpu_layers,retriever,accuracy,avg_completeness,hallucination_free,source_reference
+generation_eval_best_retrieval,65,5,extractive,extractive_window,,intfloat/multilingual-e5-small+bm25_alpha_0.65+rerank_top_15_skip_cost,0.26153846153846155,0.39597069597069595,1.0,1.0

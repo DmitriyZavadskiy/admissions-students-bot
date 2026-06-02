@@ -1,0 +1,12 @@
+{
+  "label": "hybrid_e5_rerank25",
+  "model": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+  "retriever": "hybrid_dense_bm25_rerank",
+  "questions": 65,
+  "chunks": 381,
+  "hit_1": 0.4153846153846154,
+  "hit_5": 0.8461538461538461,
+  "mrr": 0.5883092566390111,
+  "map": 0.596747113489566,
+  "ndcg_5": 0.5867377633601633
+}

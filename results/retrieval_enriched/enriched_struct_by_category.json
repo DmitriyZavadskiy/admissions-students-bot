@@ -1,0 +1,72 @@
+[
+  {
+    "label": "enriched_struct",
+    "category": "conditions",
+    "questions": 3,
+    "hit_1": 0.6666666666666666,
+    "hit_5": 0.6666666666666666,
+    "mrr": 0.6811594202898551,
+    "map": 0.6811594202898551,
+    "ndcg_5": 0.6666666666666666
+  },
+  {
+    "label": "enriched_struct",
+    "category": "contacts",
+    "questions": 3,
+    "hit_1": 0.0,
+    "hit_5": 0.6666666666666666,
+    "mrr": 0.20341880341880345,
+    "map": 0.17008547008547006,
+    "ndcg_5": 0.23114213453909027
+  },
+  {
+    "label": "enriched_struct",
+    "category": "cost",
+    "questions": 25,
+    "hit_1": 1.0,
+    "hit_5": 1.0,
+    "mrr": 1.0,
+    "map": 0.6795802244214144,
+    "ndcg_5": 0.7438284396488458
+  },
+  {
+    "label": "enriched_struct",
+    "category": "dates",
+    "questions": 25,
+    "hit_1": 0.8,
+    "hit_5": 0.96,
+    "mrr": 0.858,
+    "map": 0.7273534153547733,
+    "ndcg_5": 0.6008599337605314
+  },
+  {
+    "label": "enriched_struct",
+    "category": "documents",
+    "questions": 3,
+    "hit_1": 0.3333333333333333,
+    "hit_5": 0.6666666666666666,
+    "mrr": 0.5303030303030303,
+    "map": 0.5303030303030303,
+    "ndcg_5": 0.5436432511904858
+  },
+  {
+    "label": "enriched_struct",
+    "category": "dormitory",
+    "questions": 3,
+    "hit_1": 0.3333333333333333,
+    "hit_5": 1.0,
+    "mrr": 0.611111111111111,
+    "map": 0.611111111111111,
+    "ndcg_5": 0.7103099178571526
+  },
+  {
+    "label": "enriched_struct",
+    "category": "programs",
+    "questions": 3,
+    "hit_1": 1.0,
+    "hit_5": 1.0,
+    "mrr": 1.0,
+    "map": 0.8892857142857142,
+    "ndcg_5": 0.9031757348303415
+  }
+]

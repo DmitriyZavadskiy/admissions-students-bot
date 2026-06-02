@@ -1,0 +1,9 @@
+{
+  "label": "gen_enriched_noneigh",
+  "questions": 65,
+  "neighbors": false,
+  "accuracy": 0.7230769230769231,
+  "avg_completeness": 0.7714285714285715,
+  "hallucination_free": 0.9846153846153847,
+  "source_reference": 1.0
+}

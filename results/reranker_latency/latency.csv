@@ -1,0 +1,9 @@
+reranker,top_n,queries,latency_ms_mean,latency_ms_p50,latency_ms_p95
+mmarco,10,65,417.9,404.8,480.7
+mmarco,15,65,637.8,619.7,733.1
+mmarco,25,65,1161.9,1114.6,1415.1
+mmarco,50,65,2432.1,2353.7,3071.8
+msmarco,10,65,644.7,641.8,675.2
+msmarco,15,65,939.8,936.3,980.7
+msmarco,25,65,1608.7,1605.1,1648.2
+msmarco,50,65,3206.1,3175.3,3425.5
